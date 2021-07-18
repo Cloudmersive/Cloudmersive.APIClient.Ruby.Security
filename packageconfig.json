@@ -1,11 +1,11 @@
 ﻿{
 
-    "gemName": "cloudmersive-virus-scan-api-client",
+    "gemName": "cloudmersive-security-api-client",
     "gemLicense": "Apache 2.0",
-    "gemVersion": "2.0.6",
-    "gemHomepage": "https://www.cloudmersive.com/virus-api",
-    "gemSummary": "Scan files and content for viruses.",
-    "gemDescription": "Virus API lets you scan files and content for viruses and identify security issues with content.",
+    "gemVersion": "2.0.1",
+    "gemHomepage": "https://www.cloudmersive.com/security-api",
+    "gemSummary": "Detect and block security threats.",
+    "gemDescription": "The security APIs help you detect and block security threats. Provides coverage for the most common types of security threats in one powerful API.",
     "gemAuthor": "Cloudmersive"
 
 }
